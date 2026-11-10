@@ -1,9 +1,9 @@
 {
   "version": "0.3.2",
   "zip": "https://raw.githubusercontent.com/kalilkgf/focus-city-releases/main/updates/app-0.3.2.zip",
-  "sha256": "ff38fa26cba5ea7e34e838a26335c769ad3e5e7d0469e31930bb79a693f19eec",
+  "sha256": "76741cbd0bfee50695135afef277dfa09c27b15d5ea41d647d3a1c7b72d13043",
   "electron": "38.2.0",
   "full": "https://github.com/kalilkgf/focus-city-releases",
-  "notes": "Instalador e aviso de erro ao iniciar",
-  "date": "2026-11-10T04:09:38.992Z"
+  "notes": "Instalador, aviso de erro ao iniciar e aviso de atualização na bandeja",
+  "date": "2026-11-10T04:10:33.297Z"
 }
