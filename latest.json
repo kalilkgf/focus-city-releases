@@ -1,0 +1,9 @@
+{
+  "version": "0.3.1",
+  "zip": "https://raw.githubusercontent.com/kalilkgf/focus-city-releases/main/updates/app-0.3.1.zip",
+  "sha256": "19ffe059bb6f642821a9589a8ddba0d344563d6bcbef2f78ee6529cc88f06f69",
+  "electron": "38.2.0",
+  "full": "https://github.com/kalilkgf/focus-city-releases",
+  "notes": "Atualização automática",
+  "date": "2026-11-10T02:02:23.206Z"
+}
